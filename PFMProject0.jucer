@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="j6H718" name="PFMProject0" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth">
   <MAINGROUP id="s0R0pI" name="PFMProject0">
     <GROUP id="{61398918-AA1F-7F6D-60B7-3DCCE5DA2088}" name="Source">
       <FILE id="LoXkZZ" name="PluginProcessor.cpp" compile="1" resource="0"
